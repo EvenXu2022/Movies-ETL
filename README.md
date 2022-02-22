@@ -8,4 +8,4 @@ Generate two tables in postgreSQL one is movies, the other is ratings
 
 <img src="Resources/movies_query.PNG">
 
-<img src="Resources/ratings_query.PNG">
+<img src="Resources/ratings_query.png">
